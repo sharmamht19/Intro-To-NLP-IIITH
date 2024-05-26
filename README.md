@@ -13,7 +13,3 @@ This repository contains materials of the "Intro to NLP" course, offered in Spri
 
 - **Dr. Rahul Mishra**
 - **Dr. Manish Shrivastava**
-
-## How to Use This Repository
-
-Navigate through the directories to find assignments, lecture slides, and additional resources. Each assignment and lecture has its own folder containing relevant files and a README for further instructions.
